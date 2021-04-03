@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RenishMetto
 - 👀 I’m interested in developing user friendly solutions.
-- 🌱 I’m currently learning PHP and Angular
+- 🌱 I’m currently learning PHP and Angular and Java
 - 💞️ I’m looking to collaborate on FinTech Projects
 - 📫 How to reach me email me at renniemetts@gmail.com
 
